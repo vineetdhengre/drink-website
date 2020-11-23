@@ -1,0 +1,49 @@
+.container-fluid{
+    font-family: 'Roboto', sans-serif; 
+    margin-right: 0;
+    margin-left: 0;
+}
+
+.SPmain-banner{
+    background-position: center;
+    background-size: cover;
+}
+
+.btn-outline{
+    color: #272526;
+    border: 1px solid #1b1a1b;
+}
+
+.btn-outline:hover{
+    background-color: #A0216B;
+    color: cornsilk;
+}
+
+.main-banner{
+    padding-top: 3%;
+    padding-bottom: 3%; 
+}
+
+.CH1{
+    font-size: 2.2rem;
+    line-height: 1.5;
+}
+
+.CH2{
+    font-size: 1.4rem;
+    line-height: 1.4;
+}
+
+.CH3{
+    font-size: 1.1rem;
+    line-height: 1.5;
+}
+
+.sec-contain{
+    padding-top: 10px;
+    margin-top: 10px;
+}
+
+#text-weight{
+    font-weight: 700;
+}

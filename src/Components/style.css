@@ -1,0 +1,15 @@
+.navbar{
+    background-color: #ececec;
+    font-family: 'Roboto', sans-serif;
+    padding: 0 2% 0 2%;
+}
+
+.nav-item{
+    font-size: 1.1rem;
+    padding: 0 10px 0 10px;
+}
+
+.nav-item:hover {
+    color: #A0216B;
+    text-decoration: underline;
+}
